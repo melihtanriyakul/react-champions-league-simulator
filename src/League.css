@@ -1,0 +1,46 @@
+body {
+    padding: 24px;
+    background-color: #efefef;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+  }
+th, td {
+    padding: 2px;
+    text-align: center;
+    width: 30px;
+    height: 20px;
+}
+
+#teams {
+    width: 150px;
+}
+#result {
+    width: 300px;
+}
+#firstRow {
+    font-size: 20px;
+}
+#prediction {
+    width: 400px;
+}
+#secondTable {
+    float: right;
+    margin: -170px 200px;
+}
+button {
+    padding: 5px;
+    margin-left: 440px;
+    width: 100px;
+}
+#playAll {
+    margin: 10px 10px;
+}
+#firstDiv {
+    padding: 1px;
+    background-color: white;
+    border: 2px gray solid;
+    width: 670px;
+}
